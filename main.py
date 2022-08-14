@@ -38,7 +38,7 @@ verse = get_user_input()
 #verse = sys.stdin.read()
 number_of_As = input('In your verse, you\'d like to know the count of the letter/word:\n')
 #verse_file = open("Big Verse.txt", 'w+')
-
+# .
 #verse_file = verse_file.write(verse)
 #verse_file.close("Big Verse.txt")
 #verse_file = open("Big Verse.txt", 'r')
